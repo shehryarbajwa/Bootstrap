@@ -1,7 +1,6 @@
 .row-header {
   margin: 0px auto;
   padding: 0px auto;
-
 }
 
 .row-content {
@@ -12,15 +11,15 @@
 }
 
 .footer {
-  background-color: #997dce;
+  background-color: #C5B5E3;
   margin: 0px auto;
-  padding : 70px 30px 70px 30px;
+  padding: 20px 0px 20px 0px;
 }
 
 .jumbotron {
   padding : 70px 30px 70px 30px;
   margin: 0px auto;
-  background-color: #997dce;
+  background-color: #C5B5E3;
   color : floralwhite;
 }
 
