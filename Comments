@@ -1,0 +1,45 @@
+Within the navigation class
+
+Step1: Declare the navigation with this class:
+<nav class = "navbar"> </nav>
+
+Step2: nav bar dark means having a dark-background
+
+Step3: navbar expand sm means to expand it on small to medium screens
+
+Step4: fixed-top means Even when you scroll the nav bar will stay at the top of your page
+
+Step5: Container will set the width to be restricted to the same width as the rest of the webpage
+
+Step6: Name of the company or the logo of the company using the navBar
+
+Step7:Href makes the object a link that you can guide to
+
+Step8:UL refers to an unordered list that we can include within the navBar
+
+Step9:NavItem contains the different links for the navBar
+
+Step10:a class refers to the actual link that will be within the navBar
+
+Step11:Active means whatever the user is active on
+
+Step12:Data toggle collapse allows you to create a button that allows you to collapse or display things
+
+Step13:Target tells which target is about to open
+
+Step14:NavBar toggler icon allows you to select an icon
+
+Step15:In the links update the .href to include the html page or any link you want
+
+Step16:The z-index property specifies the stack order of an element.
+
+Step17: navBar.dark gives a CSS property to the background color
+
+
+Adding Breadcrumbs:
+
+Step 18: <ol class="col 12 breadcrumb">
+
+Step 19: <li class="breadcrumb item"
+
+Step 20: Padding is used to generate space around an element's content
