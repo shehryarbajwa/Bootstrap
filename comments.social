@@ -1,2 +1,8 @@
 Step1: Add span class="fa fa-home"
 fa refers to the font awesome class. fa-home refers to the font awesome home icon
+
+Step2: fa-lg makes them large
+
+Step3: i class allows you to use the icons
+
+Step4: a class="btn btn-social-icon btn-google"
