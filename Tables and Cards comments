@@ -19,4 +19,29 @@ Card:
 
 The card content allows you to display content that is apart from the rest of the content
 This defines the card to be a header with bg-primary as background color and text to be white and make it a heading
+
 Step 10: <h3 class="card-header bg-primary text-white">Facts at a glance</h3>
+
+Step 11: <div class="card-body"> Card body contains the elements within the card's body
+
+Step 12: Within the card body, we have a row <dl class="row"> </dl>
+
+Step 13: <dt> stands for definition term, and like a dictionary, this is the term (or phrase)
+that is being defined. Subsequently, the <dd> is the definition of the <dt>.
+You can make terms and descriptions in <dl> line up side-by-side using class dl-horizontal.
+
+Step 14: div class is card with card body being bg-light
+blockquote class is blockquote
+For quoting blocks of content from another source within your document
+
+The p class makes it a paragraph
+The footer class is blockquote-footer
+<cite> allows you to cite some article or quotations"
+<p class="mb-0">You better cut the pizza in four because I'm not hungry enough to eat six.</p>
+<footer class="blockquote-footer">
+  Yoggi Berra,
+  <cite title="Source Title">The Wit and Wisdom of Yogi Berra, P. Deve, Diversion Books, 2014</cite>
+</footer>
+</blockquote>
+
+Step 15: Add a <footer class="blockquote-footer"> for identifying the source. Wrap the name of the source work in <cite>.
