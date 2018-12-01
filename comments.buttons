@@ -1,0 +1,42 @@
+Step1: Add the appropriate CSS files
+
+Step2: Now add the contact page to the navigation hierarchy within the entire websirte
+
+Step3: By creating the buttons group with div-class="btn-group" role"button", we can
+then create individual buttons within that group
+
+Step4:Button primary makes the button the primary button
+
+Step5:We use an i class i class="fa fa-phone"
+
+Step6: Adding Forms
+
+Step7: Add a form using <form>
+
+<div class="form-group form"></div> This creates a div class with the form-group-form
+<div class="col-12 col-md-9"> This gives it 12 columns on medium to large only 9 columns
+    <form>
+      <div class="form-group row"> a variation of our standard grid row that overrides the default column gutters for tighter and more compact layouts.
+        <label for="first-name" class="col-md-2 col-form-label">First Name</label>
+        <div class="col-md-10">
+          <input type="text" class="form-control" id="firstname" name="firstname"
+          placeholder="First Name">
+        </div>
+</form>
+
+Step8: How to construct a table:
+
+Start the div with <div class="table table-responsive">
+Follow with <table class="table table-striped"></table>
+
+Step9: Table Head class is for the bar representing the years
+
+<thead class="thead-dark"></thead>
+
+Step10:<th> </th> refers to the header cell in a table
+
+Step11: <tr> </tr> defines a cell in a table
+
+<th> defines a header cell
+<tr> defines a row in a table
+<td> defines a cell in a table
