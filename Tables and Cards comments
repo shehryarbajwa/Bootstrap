@@ -1,0 +1,22 @@
+Step8: How to construct a table:
+
+Start the div with <div class="table table-responsive">
+Follow with <table class="table table-striped"></table>
+
+Step9: Table Head class is for the bar representing the years
+
+<thead class="thead-dark"></thead>
+
+Step10:<th> </th> refers to the header cell in a table
+
+Step11: <tr> </tr> defines a cell in a table
+
+<th> defines a header cell
+<tr> defines a row in a table
+<td> defines a cell in a table
+
+Card:
+
+The card content allows you to display content that is apart from the rest of the content
+This defines the card to be a header with bg-primary as background color and text to be white and make it a heading
+Step 10: <h3 class="card-header bg-primary text-white">Facts at a glance</h3>
