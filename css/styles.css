@@ -13,8 +13,9 @@
 .footer {
   background-color: #C5B5E3;
   margin: 0px auto;
-  padding: 20px 0px 20px 0px;
+  padding: 30px 0px 30px 0px;
 }
+
 
 
 
@@ -38,4 +39,11 @@
 
 .navbar-dark{
   background-color:#B425F2;
+}
+
+.tab-content{
+  border-left: 1px solid #ddd;
+  border-right: 1px solid #ddd;
+  border-bottom: 1px solid #ddd;
+  padding: 10px;
 }
